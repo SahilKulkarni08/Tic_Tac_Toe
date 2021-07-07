@@ -1,4 +1,4 @@
-#author : Sahil Kulkarni
+
 
 from tkinter import *
 import tkinter.messagebox
